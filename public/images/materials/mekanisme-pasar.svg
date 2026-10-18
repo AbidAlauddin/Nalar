@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" fill="none">
+  <rect width="800" height="320" rx="16" fill="#FFFCF8"/>
+  <line x1="120" y1="260" x2="660" y2="260" stroke="#292524" stroke-width="2.5"/>
+  <line x1="120" y1="260" x2="120" y2="40" stroke="#292524" stroke-width="2.5"/>
+  <line x1="160" y1="65" x2="580" y2="235" stroke="#2563EB" stroke-width="3.5"/>
+  <text x="605" y="238" fill="#2563EB" font-family="sans-serif" font-size="14" font-weight="bold">Permintaan (D)</text>
+  <line x1="160" y1="235" x2="580" y2="65" stroke="#EA580C" stroke-width="3.5"/>
+  <text x="605" y="70" fill="#EA580C" font-family="sans-serif" font-size="14" font-weight="bold">Penawaran (S)</text>
+  <line x1="120" y1="150" x2="370" y2="150" stroke="#78716C" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <line x1="370" y1="150" x2="370" y2="260" stroke="#78716C" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <circle cx="370" cy="150" r="7" fill="#EA580C"/>
+  <text x="385" y="142" fill="#292524" font-family="sans-serif" font-size="14" font-weight="bold">Titik Ekuilibrium E(Q_e, P_e)</text>
+  <text x="90" y="154" fill="#292524" font-family="sans-serif" font-size="13" font-weight="bold">P_e</text>
+  <text x="362" y="282" fill="#292524" font-family="sans-serif" font-size="13" font-weight="bold">Q_e</text>
+  <text x="630" y="282" fill="#57534E" font-family="sans-serif" font-size="12">Kuantitas (Q)</text>
+  <text x="65" y="52" fill="#57534E" font-family="sans-serif" font-size="12">Harga (P)</text>
+</svg>

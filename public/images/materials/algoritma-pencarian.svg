@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" fill="none">
+  <rect width="800" height="320" rx="16" fill="#FFFCF8"/>
+  <text x="400" y="55" text-anchor="middle" fill="#292524" font-family="sans-serif" font-size="16" font-weight="bold">Ilustrasi Binary Search pada Data Terurut — Kompleksitas O(log n)</text>
+  <g font-family="monospace" font-size="16" font-weight="bold">
+    <rect x="85" y="110" width="80" height="70" rx="10" fill="#F5F5F4" stroke="#D6D3D1"/><text x="125" y="152" text-anchor="middle" fill="#78716C">12</text>
+    <rect x="175" y="110" width="80" height="70" rx="10" fill="#F5F5F4" stroke="#D6D3D1"/><text x="215" y="152" text-anchor="middle" fill="#78716C">24</text>
+    <rect x="265" y="110" width="80" height="70" rx="10" fill="#F5F5F4" stroke="#D6D3D1"/><text x="305" y="152" text-anchor="middle" fill="#78716C">38</text>
+    <rect x="355" y="110" width="80" height="70" rx="10" fill="#FFEDD5" stroke="#EA580C" stroke-width="2.5"/><text x="395" y="152" text-anchor="middle" fill="#EA580C">45</text>
+    <rect x="445" y="110" width="80" height="70" rx="10" fill="#FFFFFF" stroke="#292524" stroke-width="2"/><text x="485" y="152" text-anchor="middle" fill="#292524">57</text>
+    <rect x="535" y="110" width="80" height="70" rx="10" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.5"/><text x="575" y="152" text-anchor="middle" fill="#2563EB">68</text>
+    <rect x="625" y="110" width="80" height="70" rx="10" fill="#FFFFFF" stroke="#292524" stroke-width="2"/><text x="665" y="152" text-anchor="middle" fill="#292524">82</text>
+  </g>
+  <text x="395" y="215" text-anchor="middle" fill="#EA580C" font-family="sans-serif" font-size="13" font-weight="bold">Mid = 45 (Kiri dieliminasi)</text>
+  <text x="575" y="215" text-anchor="middle" fill="#2563EB" font-family="sans-serif" font-size="13" font-weight="bold">Target = 68 (Ditemukan)</text>
+</svg>

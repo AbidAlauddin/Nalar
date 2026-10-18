@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" fill="none">
+  <rect width="800" height="320" rx="16" fill="#FFFCF8"/>
+  <g font-family="sans-serif">
+    <rect x="45" y="95" width="125" height="130" rx="12" fill="#FFEDD5" stroke="#EA580C" stroke-width="2"/>
+    <text x="107" y="135" text-anchor="middle" fill="#EA580C" font-size="13" font-weight="bold">BAB I</text>
+    <text x="107" y="160" text-anchor="middle" fill="#292524" font-size="13" font-weight="bold">Pendahuluan</text>
+    <text x="107" y="182" text-anchor="middle" fill="#57534E" font-size="11">Rumusan Masalah</text>
+
+    <rect x="190" y="95" width="125" height="130" rx="12" fill="#FFFFFF" stroke="#D6D3D1" stroke-width="2"/>
+    <text x="252" y="135" text-anchor="middle" fill="#EA580C" font-size="13" font-weight="bold">BAB II</text>
+    <text x="252" y="160" text-anchor="middle" fill="#292524" font-size="13" font-weight="bold">Landasan Teori</text>
+    <text x="252" y="182" text-anchor="middle" fill="#57534E" font-size="11">Kajian Pustaka</text>
+
+    <rect x="335" y="95" width="125" height="130" rx="12" fill="#FFFFFF" stroke="#D6D3D1" stroke-width="2"/>
+    <text x="397" y="135" text-anchor="middle" fill="#EA580C" font-size="13" font-weight="bold">BAB III</text>
+    <text x="397" y="160" text-anchor="middle" fill="#292524" font-size="13" font-weight="bold">Metodologi</text>
+    <text x="397" y="182" text-anchor="middle" fill="#57534E" font-size="11">Pengumpulan Data</text>
+
+    <rect x="480" y="95" width="125" height="130" rx="12" fill="#FFFFFF" stroke="#D6D3D1" stroke-width="2"/>
+    <text x="542" y="135" text-anchor="middle" fill="#EA580C" font-size="13" font-weight="bold">BAB IV</text>
+    <text x="542" y="160" text-anchor="middle" fill="#292524" font-size="13" font-weight="bold">Pembahasan</text>
+    <text x="542" y="182" text-anchor="middle" fill="#57534E" font-size="11">Analisis Temuan</text>
+
+    <rect x="625" y="95" width="130" height="130" rx="12" fill="#FFEDD5" stroke="#EA580C" stroke-width="2"/>
+    <text x="690" y="135" text-anchor="middle" fill="#EA580C" font-size="13" font-weight="bold">BAB V</text>
+    <text x="690" y="160" text-anchor="middle" fill="#292524" font-size="13" font-weight="bold">Penutup</text>
+    <text x="690" y="182" text-anchor="middle" fill="#57534E" font-size="11">Simpulan &amp; Sitasi</text>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" fill="none">
+  <rect width="800" height="320" rx="16" fill="#FFFCF8"/>
+  <rect x="50" y="35" width="330" height="250" rx="12" fill="#FFFFFF" stroke="#E7E5E4"/>
+  <text x="75" y="65" fill="#EA580C" font-family="sans-serif" font-size="15" font-weight="bold">Reaksi Eksoterm (ΔH &lt; 0)</text>
+  <line x1="90" y1="115" x2="210" y2="115" stroke="#292524" stroke-width="3"/>
+  <text x="150" y="103" text-anchor="middle" fill="#292524" font-family="sans-serif" font-size="13" font-weight="bold">Reaktan (H awal)</text>
+  <line x1="210" y1="225" x2="340" y2="225" stroke="#EA580C" stroke-width="3"/>
+  <text x="275" y="248" text-anchor="middle" fill="#EA580C" font-family="sans-serif" font-size="13" font-weight="bold">Produk (H akhir)</text>
+  <line x1="210" y1="115" x2="210" y2="218" stroke="#EA580C" stroke-width="2.5" stroke-dasharray="4 4"/>
+  <polygon points="210,222 204,208 216,208" fill="#EA580C"/>
+  <text x="275" y="172" fill="#EA580C" font-family="monospace" font-size="13" font-weight="bold">ΔH = H_p - H_r &lt; 0</text>
+  <rect x="420" y="35" width="330" height="250" rx="12" fill="#FFFFFF" stroke="#E7E5E4"/>
+  <text x="445" y="65" fill="#2563EB" font-family="sans-serif" font-size="15" font-weight="bold">Reaksi Endoterm (ΔH &gt; 0)</text>
+  <line x1="460" y1="225" x2="580" y2="225" stroke="#292524" stroke-width="3"/>
+  <text x="520" y="248" text-anchor="middle" fill="#292524" font-family="sans-serif" font-size="13" font-weight="bold">Reaktan (H awal)</text>
+  <line x1="580" y1="115" x2="710" y2="115" stroke="#2563EB" stroke-width="3"/>
+  <text x="645" y="103" text-anchor="middle" fill="#2563EB" font-family="sans-serif" font-size="13" font-weight="bold">Produk (H akhir)</text>
+  <line x1="580" y1="225" x2="580" y2="122" stroke="#2563EB" stroke-width="2.5" stroke-dasharray="4 4"/>
+  <polygon points="580,118 574,132 586,132" fill="#2563EB"/>
+  <text x="645" y="172" fill="#2563EB" font-family="monospace" font-size="13" font-weight="bold">ΔH = H_p - H_r &gt; 0</text>
+</svg>
