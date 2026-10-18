@@ -9,13 +9,15 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body class="min-h-full bg-nalar-bg text-sm text-nalar-text antialiased">
-    <div class="min-h-screen lg:grid lg:grid-cols-[232px_minmax(0,1fr)]">
+    <div class="min-h-screen lg:grid lg:grid-cols-[240px_minmax(0,1fr)]">
         <x-admin.sidebar />
 
         <div class="flex min-w-0 flex-col">
             <x-admin.topbar :title="$title" />
-            <main class="flex-1 px-5 py-6 sm:px-7 lg:px-9 lg:py-8">
-                {{ $slot }}
+            <main class="flex-1 px-5 py-6 sm:px-7 lg:px-8 lg:py-7">
+                <div class="mx-auto max-w-[1400px]">
+                    {{ $slot }}
+                </div>
             </main>
         </div>
     </div>
